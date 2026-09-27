@@ -1,0 +1,39 @@
+============================================================
+SUMMARY STATS — OI Ratio vs Binance
+============================================================
+
+  OKX / Binance (solo coin su Binance):
+    Media    = 0.2909
+    Mediana  = 0.2753
+    Min      = 0.0000
+    Max      = 0.8105
+    Std      = 0.1676
+
+  Hyperliquid / Binance (solo coin su Binance):
+    Media    = 0.2599
+    Mediana  = 0.1668
+    Min      = 0.0000
+    Max      = 1.9721
+    Std      = 0.3752
+
+  ⚠️  5 coin non su Binance (ratio inf) — escluse da medie sopra
+      TRUMP: solo OKX+HL
+      XPL: solo OKX+HL
+      SAMSUNG: solo OKX+HL
+      SNDK: solo OKX+HL
+      UNI: solo OKX+HL
+
+  Market share (totale OI):
+    Binance       =     16,103,113,453 USD  (66.4%)
+    OKX           =      4,826,791,515 USD  (19.9%)
+    Hyperliquid   =      3,303,527,795 USD  (13.6%)
+
+  Coin con ratio ≥ 10%:  OKX= 38  HL= 28
+  Coin con ratio ≥ 25%:  OKX= 27  HL= 18
+  Coin con ratio ≥ 50%:  OKX=  8  HL= 10
+  Coin con ratio ≥ 75%:  OKX=  6  HL=  7
+
+  Top 3 coin per ratio OKX: TRUMP, XPL, SAMSUNG
+  Top 3 coin per ratio HL:  TRUMP, XPL, SAMSUNG
+  Bottom 3 coin per ratio OKX: WLD, TAO, 1000PEPE
+  Bottom 3 coin per ratio HL:  LAB, SLX, ALLO
